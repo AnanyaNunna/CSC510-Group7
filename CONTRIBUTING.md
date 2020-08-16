@@ -12,7 +12,7 @@ Thank you for taking the time to contribute to this project. These are not a set
   
 [How To Contribute](#how-to-contribute)
   * [Reporting Bugs](#reporting-bugs)
-  * [Suggesting Enhancements](#suggesting enhancements)
+  * [Suggesting Enhancements](#suggesting-enhancements)
   * [Pull Requests](#pull-requests)
   
  [Styleguides](#styleguides)
