@@ -5,6 +5,6 @@ setup(name='CSC510-Group7',
       description='Sample Package',
       author='vanand, draghun, anunna, ssdeshp8, abisht',
       author_email='vanand@ncsu.edu',
-      packages=['code'],
+      packages = setuptools.find_packages() ,
       long_description=open('README.txt').read(),
      )
