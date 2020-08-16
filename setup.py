@@ -6,5 +6,5 @@ setup(name='CSC510-Group7',
       author='vanand, draghun, anunna, ssdeshp8, abisht',
       author_email='vanand@ncsu.edu',
       packages = find_packages() ,
-      long_description=open('README.txt').read(),
+      long_description=open('README.md').read(),
      )
