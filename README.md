@@ -5,4 +5,6 @@
 
 - Entire Travis CI Build - https://tinyurl.com/yype29l8 
 
+---
 
+## Zenodo Archival - [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3987441.svg)](https://doi.org/10.5281/zenodo.3987441)
